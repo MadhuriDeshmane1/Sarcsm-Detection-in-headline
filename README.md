@@ -2,7 +2,7 @@
 
 [This repository] perform[s] semantic modelling of sentences using neural networks for the task of sarcasm detection using Naive bayes, RNN, LSTM.
 
-Tasks Performed : Transliteration,Word2vec, NAive bayes model, RNN, CNN
+Tasks Performed : Transliteration,Word2vec, Naive bayes model, RNN, CNN
 
 Pre-requisite nltk (TweetTokenizer) Keras Tensorflow numpy scipy gensim (if you are using word2vec) itertools
 
